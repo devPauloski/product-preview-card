@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution Link](https://your-solution-url.com)
-- Live Site URL: [Preview Link](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution Link](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/67d57b57e22457629b6bc728/challenge/refactor)
+- Live Site URL: [Preview Link](https://product-preview-card-devpauloskis-projects.vercel.app/)
 
 ### Built with
 
